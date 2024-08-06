@@ -1,0 +1,19 @@
+{
+  "name": "3d-img-processor",
+  "version": "1.0.0",
+  "description": "Processes photos taken by the Nishika N8000 camera for prep in Photoshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mygoodgomez/3d-img-processor.git"
+  },
+  "author": "Nik Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mygoodgomez/3d-img-processor/issues"
+  },
+  "homepage": "https://github.com/mygoodgomez/3d-img-processor#readme"
+}
