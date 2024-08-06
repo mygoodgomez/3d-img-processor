@@ -2,6 +2,7 @@
   "name": "3d-img-processor",
   "version": "1.0.0",
   "description": "Processes photos taken by the Nishika N8000 camera for prep in Photoshop",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/mygoodgomez/3d-img-processor#readme",
   "dependencies": {
     "ag-psd": "^20.2.3",
+    "canvas": "^2.11.2",
     "jimp": "^0.22.12"
   }
 }
